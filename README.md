@@ -13,11 +13,11 @@
   - `全部变量.do`：处理数据和合并数据。自变量1、因变量1、控制变量1、全部变量1相互对应，全部变量1为`全部变量1_市级层面宏观数据.dta`和`全部变量1_省级层面宏观数据.dta`。2同理，为`面板数据2_上市公司`。
 
   ![image-20250521124716902](https://github.com/whuTuTu/GVC/blob/main/pic/image-20250521124716902.png)
-`全部变量1_市级层面宏观数据.dta`和数据介绍：`Year Province`表示年份和省份，`IndFundSize1 PatentProvince1`表示省级-年份层面的GVC成立规模和被GVC投资过的全部企业（包括上市和非上市的）创新数量，`Gdp0101 Gdp0116`为宏观控制变量，代表地区生产总值和人均地区生产总值。
+  `全部变量1_市级层面宏观数据.dta`和数据介绍：`Year Province`表示年份和省份，`IndFundSize1 PatentProvince1`表示省级-年份层面的GVC成立规模和被GVC投资过的全部企业（包括上市和非上市的）创新数量，`Gdp0101 Gdp0116`为宏观控制变量，代表地区生产总值和人均地区生产总值。
 
-`全部变量1_省级层面宏观数据.dta`数据介绍：`Year City`表示年份和城市，`PatentCity1 IndFundSize2`表示市级-年份层面的GVC成立规模和被GVC投资过的全部企业（包括上市和非上市的）创新数量。
+  `全部变量1_省级层面宏观数据.dta`数据介绍：`Year City`表示年份和城市，`PatentCity1 IndFundSize2`表示市级-年份层面的GVC成立规模和被GVC投资过的全部企业（包括上市和非上市的）创新数量。
 
-`面板数据2_上市公司`数据介绍：``Year、Symbol`分别代表年份和证券代码，`Patent、PatentGet、PatentApply`分别代表XR创新发明专利数量、CNRDS专利发明数量、CNRDS专利申请数量。控制变量为`ROA Growth Cash MB Tang Boardsize Balance InsInvest ManShare IndDirector Age Z SOE LMV LEV`
+  `面板数据2_上市公司`数据介绍：``Year、Symbol`分别代表年份和证券代码，`Patent、PatentGet、PatentApply`分别代表XR创新发明专利数量、CNRDS专利发明数量、CNRDS专利申请数量。控制变量为`ROA Growth Cash MB Tang Boardsize Balance InsInvest ManShare IndDirector Age Z SOE LMV LEV`
 
   - `全部图表.do`：一些描述性统计的图。
 
