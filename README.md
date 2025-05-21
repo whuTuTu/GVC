@@ -47,7 +47,7 @@
 
 使用`全部变量1_市级层面宏观数据.dta`和`全部变量1_省级层面宏观数据.dta`，回归模型在【project】中的`全部回归.do`
 
-<img src="[D:\Filesdownloads\typorafig\image-20250425192011383.png](https://github.com/whuTuTu/GVC/blob/main/pic/image-20250425192011383.png)" alt="image-20250425192011383" style="zoom:67%;" /><img src="https://github.com/whuTuTu/GVC/blob/main/pic/image-20250425163636039.png" alt="image-20250425163636039" style="zoom:67%;" />
+<img src="https://github.com/whuTuTu/GVC/blob/main/pic/image-20250425192011383.png" alt="image-20250425192011383" style="zoom:67%;" /><img src="https://github.com/whuTuTu/GVC/blob/main/pic/image-20250425163636039.png" alt="image-20250425163636039" style="zoom:67%;" />
 
 #### （2）微观层面用面板数据研究企业是否被GVC投资对企业创新数量的影响
 
