@@ -12,25 +12,25 @@
 
   - `全部变量.do`：处理数据和合并数据。自变量1、因变量1、控制变量1、全部变量1相互对应，全部变量1为`全部变量1_市级层面宏观数据.dta`和`全部变量1_省级层面宏观数据.dta`。2同理，为`面板数据2_上市公司`。
 
-  ![image-20250521124716902](D:\Filesdownloads\typorafig\image-20250521124716902.png)
+  ![image-20250521124716902](https://github.com/whuTuTu/GVC/blob/main/pic/image-20250521124716902.png)
 
   - `全部图表.do`：一些描述性统计的图。
 
   全部企业投资次数
 
-  ![全部企业投资次数](D:\Filesdownloads\typorafig\全部企业投资次数.png)
+  ![全部企业投资次数](https://github.com/whuTuTu/GVC/blob/main/pic/%E5%85%A8%E9%83%A8%E4%BC%81%E4%B8%9A%E6%8A%95%E8%B5%84%E6%AC%A1%E6%95%B0.png)
 
   全部企业_根据GVC和VC分类
 
-  ![全部企业_根据GVC和VC分类](D:\Filesdownloads\typorafig\全部企业_根据GVC和VC分类.png)
+  ![全部企业_根据GVC和VC分类](https://github.com/whuTuTu/GVC/blob/main/pic/%E5%85%A8%E9%83%A8%E4%BC%81%E4%B8%9A_%E6%A0%B9%E6%8D%AEGVC%E5%92%8CVC%E5%88%86%E7%B1%BB.png)
 
   上市公司_根据GVC和VC分类
 
-  ![上市公司_根据GVC和VC分类](D:\Filesdownloads\typorafig\上市公司_根据GVC和VC分类.png)
+  ![上市公司_根据GVC和VC分类](https://github.com/whuTuTu/GVC/blob/main/pic/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8_%E6%A0%B9%E6%8D%AEGVC%E5%92%8CVC%E5%88%86%E7%B1%BB.png)
 
   全部企业_根据上市分类
 
-  ![全部企业_根据上市分类](D:\Filesdownloads\typorafig\全部企业_根据上市分类.png)
+  ![全部企业_根据上市分类](https://github.com/whuTuTu/GVC/blob/main/pic/%E5%85%A8%E9%83%A8%E4%BC%81%E4%B8%9A_%E6%A0%B9%E6%8D%AE%E4%B8%8A%E5%B8%82%E5%88%86%E7%B1%BB.png)
 
   - `DID分析.do`：使用`面板数据2_上市公司`做微观层面的GVC投资对于企业创新数量的影响，使用DID模型，平行趋势检验未完成。
   - `回归分析.do`:使用合并数据进行回归分析汇总。
@@ -41,7 +41,7 @@
 
 使用`全部变量1_市级层面宏观数据.dta`和`全部变量1_省级层面宏观数据.dta`，回归模型在【project】中的`全部回归.do`
 
-<img src="D:\Filesdownloads\typorafig\image-20250425192011383.png" alt="image-20250425192011383" style="zoom:67%;" /><img src="D:\Filesdownloads\typorafig\image-20250425163636039.png" alt="image-20250425163636039" style="zoom:67%;" />
+<img src="[D:\Filesdownloads\typorafig\image-20250425192011383.png](https://github.com/whuTuTu/GVC/blob/main/pic/image-20250425192011383.png)" alt="image-20250425192011383" style="zoom:67%;" /><img src="https://github.com/whuTuTu/GVC/blob/main/pic/image-20250425163636039.png" alt="image-20250425163636039" style="zoom:67%;" />
 
 #### （2）微观层面用面板数据研究企业是否被GVC投资对企业创新数量的影响
 
@@ -61,15 +61,15 @@
 
 - 4707个上市公司样本，有1/4被GVC投资过
 
-<img src="D:\Filesdownloads\typorafig\image-20250507152651876.png" alt="image-20250507152651876" style="zoom:67%;" />
+<img src="https://github.com/whuTuTu/GVC/blob/main/pic/image-20250507152651876.png" alt="image-20250507152651876" style="zoom:67%;" />
 
 - 首轮风投情况
 
-<img src="D:\Filesdownloads\typorafig\image-20250507152705601.png" alt="image-20250507152705601" style="zoom:67%;" />
+<img src="https://github.com/whuTuTu/GVC/blob/main/pic/image-20250507152705601.png" alt="image-20250507152705601" style="zoom:67%;" />
 
 - 被投资次数（一年被多次投资被认为是1次）
 
-<img src="D:\Filesdownloads\typorafig\image-20250507152717041.png" alt="image-20250507152717041" style="zoom:67%;" />
+<img src="https://github.com/whuTuTu/GVC/blob/main/pic/image-20250507152717041.png" alt="image-20250507152717041" style="zoom:67%;" />
 
 ==步骤三：回归分析==
 
@@ -77,7 +77,7 @@
 
 第二个回归按照以前的思路，将GVC和VC的投资分割开来。
 
-<img src="D:\Filesdownloads\typorafig\image-20250507152918626.png" alt="image-20250507152918626" style="zoom:67%;" />
+<img src="https://github.com/whuTuTu/GVC/blob/main/pic/image-20250507152918626.png" alt="image-20250507152918626" style="zoom:67%;" />
 
 ### 3.计划未来需要继续做的工作
 
